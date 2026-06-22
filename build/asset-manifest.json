@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cde4700.css",
-    "main.js": "/static/js/main.8731e41a.js",
+    "main.js": "/static/js/main.b7f2ecfb.js",
     "static/media/Onboarding_1-5 Screen.png": "/static/media/Onboarding_1-5 Screen.c89a9617225ea0bcf759.png",
     "static/media/logo.png": "/static/media/logo.f88dbc927dee29d24840.png",
     "static/media/DSC02181.jpg": "/static/media/DSC02181.7d135cad51778ebd67ee.jpg",
@@ -19,10 +19,10 @@
     "static/media/Onboarding_4-5 Add Care Recipient Screen - Empty Profile Pic.png": "/static/media/Onboarding_4-5 Add Care Recipient Screen - Empty Profile Pic.03e89f244af1a98d7289.png",
     "index.html": "/index.html",
     "main.2cde4700.css.map": "/static/css/main.2cde4700.css.map",
-    "main.8731e41a.js.map": "/static/js/main.8731e41a.js.map"
+    "main.b7f2ecfb.js.map": "/static/js/main.b7f2ecfb.js.map"
   },
   "entrypoints": [
     "static/css/main.2cde4700.css",
-    "static/js/main.8731e41a.js"
+    "static/js/main.b7f2ecfb.js"
   ]
 }
