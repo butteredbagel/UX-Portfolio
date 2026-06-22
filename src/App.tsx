@@ -3,6 +3,9 @@ import { Navigation } from "./components/Navigation";
 import { HomePage } from "./pages/HomePage";
 import { CaseStudyPage } from "./pages/CaseStudyPage";
 import { useScrollToHash } from "./hooks/useScrollToHash";
+import ReactGA from "react-ga4";
+
+ReactGA.initialize(process.env.REACT_APP_GA_ID!);
 
 function App(): JSX.Element {
   useScrollToHash();
