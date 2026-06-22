@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cde4700.css",
+    "main.js": "/static/js/main.b7f2ecfb.js",
+    "static/media/Onboarding_1-5 Screen.png": "/static/media/Onboarding_1-5 Screen.c89a9617225ea0bcf759.png",
+    "static/media/logo.png": "/static/media/logo.f88dbc927dee29d24840.png",
+    "static/media/DSC02181.jpg": "/static/media/DSC02181.7d135cad51778ebd67ee.jpg",
+    "static/media/AddMed_1-3 Medication Home.png": "/static/media/AddMed_1-3 Medication Home.c7999817f4fcff8dd1f3.png",
+    "static/media/AddMed_3-3 Medication Home - Success Toast.png": "/static/media/AddMed_3-3 Medication Home - Success Toast.2579987685ada67ed1c8.png",
+    "static/media/AddCareTask_1-4Dashboard Home Main - Empty Screen.png": "/static/media/AddCareTask_1-4Dashboard Home Main - Empty Screen.50c8afb49141ff2b8be1.png",
+    "static/media/Dashboard Home Main - Today.png": "/static/media/Dashboard Home Main - Today.8fd0c666a53b8cda2f78.png",
+    "static/media/AddCareTask_4-4 Dashboard Home Main - Today.png": "/static/media/AddCareTask_4-4 Dashboard Home Main - Today.4d55e62e190960bf43fe.png",
+    "static/media/Onboarding_5-5 Add Care Recipient Screen.png": "/static/media/Onboarding_5-5 Add Care Recipient Screen.201946bb0ba9f9657e25.png",
+    "static/media/Onboarding_3-5 Care Recipient Option.png": "/static/media/Onboarding_3-5 Care Recipient Option.66fcb14cb949471b3589.png",
+    "static/media/AddCareTask_2-4 Dashboard Home Main - Overlay.png": "/static/media/AddCareTask_2-4 Dashboard Home Main - Overlay.7baf66aab6942f64017d.png",
+    "static/media/Onboarding_2-5 Create Acc.png": "/static/media/Onboarding_2-5 Create Acc.bea8bd1c8a7977a482ba.png",
+    "static/media/AddCareTask_3-4 Add Care Task Form.png": "/static/media/AddCareTask_3-4 Add Care Task Form.3eb30c48bd0309d92d8f.png",
+    "static/media/AddMed_2-3 Add Medication Form.png": "/static/media/AddMed_2-3 Add Medication Form.cbfb45c2d9be0b67f58e.png",
+    "static/media/Onboarding_4-5 Add Care Recipient Screen - Empty Profile Pic.png": "/static/media/Onboarding_4-5 Add Care Recipient Screen - Empty Profile Pic.03e89f244af1a98d7289.png",
+    "index.html": "/index.html",
+    "main.2cde4700.css.map": "/static/css/main.2cde4700.css.map",
+    "main.b7f2ecfb.js.map": "/static/js/main.b7f2ecfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cde4700.css",
+    "static/js/main.b7f2ecfb.js"
+  ]
+}
